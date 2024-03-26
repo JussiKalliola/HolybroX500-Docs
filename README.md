@@ -31,6 +31,6 @@ If possible, provide guides how to get started and how to use, **and all the req
 
 | Name | Use case | Capabilities | Main user | More |
 | ----- | ----- | ------ | -------- | ------- | 
-| [Holybro X500 v2]((./holybro-x500-v2/README.md)) | Outdoor | RTK GPS, multi GPS, Companion computer, depth camera, Lidar | [Jussi Kalliola](https://github.com/JussiKalliola) | <img src="holybro-x500-v2/img/X500MechanicalSpec_480x480.png.webp" alt="drawing" width="200"/>|
+| [Holybro X500 v2]((holybro-x500-v2/README.md)) | Outdoor | RTK GPS, multi GPS, Companion computer, depth camera, Lidar | [Jussi Kalliola](https://github.com/JussiKalliola) | <img src="holybro-x500-v2/img/X500MechanicalSpec_480x480.png.webp" alt="drawing" width="200"/>|
 
 
